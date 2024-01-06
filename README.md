@@ -36,7 +36,6 @@ class App {
     this.state = {
       fetchedLanguages: [],
       selectedLanguages: [],
-      keyword: '',
     };
   }
   setState = (nextState) => {};
