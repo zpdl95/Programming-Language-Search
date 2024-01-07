@@ -1,4 +1,4 @@
-# [프로그래머스 과제테스트 연습] 사원 정보 테이블 구축{2022 Dev-Matching: 웹 프론트엔드 개발자(상반기)}
+# [프로그래머스 과제테스트 연습] 프로그래밍 언어 검색{2022 Dev-Matching: 웹 프론트엔드 개발자(상반기)}
 
 <ol style='border:1px solid; border-radius:10px'>
 <li style='font-size:2rem'><a href='#파일구조'>파일구조</a></li>
